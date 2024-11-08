@@ -1,0 +1,47 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    padding: 1rem 0;
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.carousel-item img {
+    filter: brightness(60%);
+    max-height: 600px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 20%;
+}
+
+/* Community Links Section */
+.community-links-section {
+    background-color: #e9ecef;
+    padding: 2rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.btn-outline-primary, .btn-outline-secondary {
+    margin: 0.5rem;
+    font-weight: bold;
+}
+
+blockquote {
+    border-left: 5px solid #007bff;
+    padding-left: 1rem;
+}
+
+h2, h4 {
+    color: #007bff;
+}

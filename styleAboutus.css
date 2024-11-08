@@ -1,0 +1,35 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+/* Section Headers */
+h2, h3 {
+    font-weight: bold;
+    color: #333;
+}
+
+/* About Section */
+.about-section {
+    background-color: #e6f7ff;
+    color: #0056b3;
+}
+
+.project-overview {
+    background-color: #f5f5f5;
+}
+
+.team-members .rounded-circle {
+    width: 150px;
+}
+
+.investors img, .hiring-reasons img {
+    width: 80px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+}

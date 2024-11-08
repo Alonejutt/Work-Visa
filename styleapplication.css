@@ -1,0 +1,35 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.application-form-section {
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+}
+
+h2 {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Form Steps */
+.form-step {
+    max-width: 600px;
+    margin: auto;
+}
+
+.next-step, .prev-step {
+    margin-top: 15px;
+}
+
+.progress-bar {
+    transition: width 0.4s ease;
+}
+
+/* Success Message */
+#successMessage {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}

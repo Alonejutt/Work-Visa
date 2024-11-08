@@ -1,0 +1,38 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px;
+}
+
+/* Job Openings Section */
+.job-openings-section {
+    background-color: #f4f9fc;
+}
+
+h2, h4 {
+    font-weight: bold;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}

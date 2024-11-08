@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application Process - Chandler Aquatic Centre Recruitment</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Chandler Aquatic Centre</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="jobs.html">Job Openings</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="application.html">Application Process</a></li>
+                    <li class="nav-item"><a class="nav-link" href="success.html">Success Stories</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Application Process Section -->
+    <section class="application-process-section py-5 mt-5">
+        <div class="container">
+            <h2 class="text-center mb-5 text-primary">Our Application Process</h2>
+            <p class="text-center mb-5 lead">Get to know each step in our application process to secure a position at Chandler Aquatic Centre. We value transparency and clarity, guiding you from application submission to joining our team.</p>
+
+            <!-- Process Steps -->
+            <div class="row">
+                <!-- Step 1 -->
+                <div class="col-md-12 mb-5">
+                    <h4 class="text-secondary">Step 1: Submit Your Application</h4>
+                    <p>Begin by submitting your application form along with a <strong>non-refundable processing fee of $135 USD</strong>. This fee covers the administrative and logistical costs associated with processing your application.</p>
+                    <ul>
+                        <li><strong>What’s Covered:</strong> Our team will review your application thoroughly, ensuring it meets our standards and criteria for the role.</li>
+                        <li><strong>Dedicated Support:</strong> The fee also allows us to provide support throughout the application process, helping answer any questions you may have along the way.</li>
+                    </ul>
+                    <p class="text-muted">Note: Please ensure your details are accurate and all required documents are attached, as incomplete applications may delay processing.</p>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="col-md-12 mb-5">
+                    <h4 class="text-secondary">Step 2: Application Review (7 Days)</h4>
+                    <p>After submitting your application, allow our team up to <strong>7 days</strong> to review your submission. During this period, we evaluate each application based on the role requirements, experience, and other essential criteria.</p>
+                    <ul>
+                        <li><strong>What We Check:</strong> Our team examines qualifications, experience, and suitability for the role you applied for.</li>
+                        <li><strong>Communication:</strong> You will receive an email update on your application status. If accepted, the email will provide instructions for the next steps.</li>
+                    </ul>
+                    <p class="text-muted">Tip: Ensure your email address is correct and check your inbox and spam folder for updates from us.</p>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="col-md-12 mb-5">
+                    <h4 class="text-secondary">Step 3: Apply for a Work Permit</h4>
+                    <p>Once accepted, you’ll proceed to apply for a <strong>work permit</strong>. This step verifies your eligibility to work legally and requires submitting relevant documents along with a <strong>$300 USD processing fee</strong>.</p>
+                    <ul>
+                        <li><strong>Documents Needed:</strong> Identification, educational certificates, relevant work experience, and any required professional licenses.</li>
+                        <li><strong>Why the Fee?</strong> This fee helps cover costs associated with document verification, ensuring your work eligibility and meeting compliance standards.</li>
+                    </ul>
+                    <p>Work permit approval is crucial as it grants you official permission to work in the country.</p>
+                </div>
+
+                <!-- Step 4 -->
+                <div class="col-md-12 mb-5">
+                    <h4 class="text-secondary">Step 4: Visa Application</h4>
+                    <p>After your work permit is approved, apply for a visa to enter and work in Australia. Depending on your role and qualifications, different visa types are available with varying costs:</p>
+                    <ul>
+                        <li><strong>Skilled Regional Visa:</strong> 360 AUD (~265 USD)</li>
+                        <li><strong>Temporary Work Visa:</strong> 310 AUD (~225 USD)</li>
+                        <li><strong>Distinguished Talent Visa:</strong> 4,110 AUD (~3,000 USD)</li>
+                    </ul>
+                    <p>Visa fees are required by Australian immigration authorities. Processing times vary, so we recommend preparing all necessary documents to avoid delays.</p>
+                    <ul>
+                        <li><strong>Why the Visa Fee?</strong> This fee goes towards processing and evaluating your application, allowing you to work legally in Australia.</li>
+                        <li><strong>Assistance Available:</strong> If needed, our team can offer guidance on completing the visa application.</li>
+                    </ul>
+                    <p class="text-muted">Note: Visa processing can take several weeks depending on your location and visa type.</p>
+                </div>
+
+                <!-- Required Documents Summary -->
+                <div class="col-md-12 mb-5">
+                    <h4 class="text-secondary">Required Documents Summary</h4>
+                    <p>To help you prepare, here’s a summary of the documents you may need throughout the application process:</p>
+                    <ul>
+                        <li><strong>Identification Documents:</strong> Passport, national ID card, or any other valid ID.</li>
+                        <li><strong>Educational Certificates:</strong> Degree or diploma relevant to the job position.</li>
+                        <li><strong>Work Experience Proof:</strong> Previous employment letters or experience certificates.</li>
+                        <li><strong>Professional Licenses (if applicable):</strong> Any licenses or certifications required for your role.</li>
+                    </ul>
+                    <p>Ensure that you have clear, certified copies of these documents ready to upload as part of your application.</p>
+                </div>
+            </div>
+
+            <!-- Community Links Section -->
+            <div class="community-links-section mt-5 text-center">
+                <h3 class="text-primary mb-4">Join Our Community</h3>
+                <p>Stay connected with fellow applicants and our support team by joining our community groups. Get the latest updates on the application process, visa tips, and support from other applicants in your position.</p>
+                <a href="https://wa.me/your_whatsapp_group_link" class="btn btn-outline-primary me-2" target="_blank">Join WhatsApp Group</a>
+                <a href="https://t.me/your_telegram_group_link" class="btn btn-outline-secondary" target="_blank">Join Telegram Group</a>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

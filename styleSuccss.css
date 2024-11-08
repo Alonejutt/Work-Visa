@@ -1,0 +1,38 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px;
+}
+
+/* Success Stories Section */
+h2 {
+    color: #333;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    width: 60%;
+    margin: auto;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
